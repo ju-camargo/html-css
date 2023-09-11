@@ -1,0 +1,29 @@
+.div_a {
+    background-color: #375f3b; 
+    width: 500px; 
+    height: 500px;
+}
+.div_b {
+    background-color: #6c412a; 
+    width: 250px; 
+    height: 250px;
+}
+.div_c {
+    background-color: pink;
+}
+.paragrafo_c {
+    color: gray; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+.div_d {
+    width:50%; 
+    height:50vh; 
+    background-color: #8b5742;
+}
+.div_e {
+    width:75vw; 
+    height:50%; 
+    background-color: #6d292a;
+}
